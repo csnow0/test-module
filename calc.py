@@ -1,5 +1,7 @@
-import numpy as np
-import scipy
+ import math
+import numpy.array as a
+ from scipy import stats
+from math
 
 def getHandler():
     return "GET MEAN SQUARE"
