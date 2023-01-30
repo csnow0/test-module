@@ -1,7 +1,7 @@
 import math
-import numpy.array as a
-from scipy import stats
-import math
+import numpy.random as rand
+from scipy.stats import lognorm
+import sys, os
 
 def getHandler():
     return "GET MEAN SQUARE"
