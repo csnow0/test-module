@@ -1,6 +1,6 @@
- import math
+import math
 import numpy.array as a
- from scipy import stats
+from scipy import stats
 from math
 
 def getHandler():
