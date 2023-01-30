@@ -3,3 +3,5 @@ import scipy
 
 def rms():
     return "ROOT MEAN SQUARE"
+def getHandler():
+    return rms()
