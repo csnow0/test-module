@@ -4,7 +4,7 @@ from scipy.stats import lognorm
 import sys, os
 
 def getHandler():
-    return "GET MEAN SQUARE"
+    return math.sqrt(75)
 
 def postHandler():
     return "POST MEAN SQUARE"
