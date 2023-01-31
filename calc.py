@@ -3,8 +3,8 @@ import numpy.random as rand
 from scipy.stats import lognorm
 import sys, os
 
-def getHandler():
-    return math.sqrt(75)
+def getHandler(a, b, c, d):
+    return math.sqrt(a + b + c + d)
 
 def postHandler():
     return "POST MEAN SQUARE"
